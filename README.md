@@ -1,2 +1,2 @@
-# MachineLearningSpamEmail
-二下自主學習：用Python機器學習來辨識垃圾郵件
+# 用Python自主學習來辨識垃圾郵件
+使用Python 3.10來辨識垃圾郵件，使用scikit-learn模組。
